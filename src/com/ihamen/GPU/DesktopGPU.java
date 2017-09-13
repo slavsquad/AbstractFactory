@@ -1,11 +1,11 @@
-package com.ihamen;
+package com.ihamen.GPU;
 
 /**
  * Created by stepanenko.sg on 13.09.2017.
  */
-public class MobileCPU implements CPU {
+public class DesktopGPU implements GPU{
     @Override
     public String getInfo() {
-        return "Mobile CPU";
+        return "Desktop GPU";
     }
 }

@@ -1,8 +1,8 @@
-package com.ihamen;
+package com.ihamen.Motherboard;
 
 /**
  * Created by stepanenko.sg on 13.09.2017.
  */
-public interface GPU {
+public interface Motherboard {
     public String getInfo();
 }

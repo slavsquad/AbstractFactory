@@ -1,4 +1,4 @@
-package com.ihamen;
+package com.ihamen.GPU;
 
 /**
  * Created by stepanenko.sg on 13.09.2017.

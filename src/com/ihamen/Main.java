@@ -1,5 +1,11 @@
 package com.ihamen;
 
+import com.ihamen.CPU.CPU;
+import com.ihamen.GPU.GPU;
+import com.ihamen.Motherboard.Motherboard;
+import com.ihamen.factories.ComponentsFactory;
+import com.ihamen.factories.DesktopFactory;
+
 public class Main {
 
     public static void main(String[] args) {
